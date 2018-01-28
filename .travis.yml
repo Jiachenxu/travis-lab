@@ -6,5 +6,4 @@ python:
   - "3.5"
 
 script:
-  - python test_buildin.py
-  - python test_array.py 
+  - pytest
