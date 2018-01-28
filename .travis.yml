@@ -5,3 +5,5 @@ python:
 
 script:
   - python hello.py
+  - python test_buildin.py
+  - python test_array.py 
